@@ -1,0 +1,155 @@
+body {
+	width: 100%;
+	height: 100vw;
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url(../img/geekacademy.jpg);
+	background-size: 7.9vw 4vw;
+	background-attachment: fixed;
+	background-position: center;
+}
+header {
+	width: 100%;
+	height: 50vw;
+	background-color: hsla(15, 15%, 15%, .97);
+}
+ul, ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin-top: 0;
+    text-align: center;
+    margin-bottom: 1em;
+    color: #ffffff;
+}
+p {
+    font-size: 1.35em;
+    font-weight: 300;
+}
+div.container {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 35vw;
+    height: 25vw;
+    margin: 0 auto;
+    line-height: 3em;
+    padding-top: 9em;
+}
+li img {
+	margin: 0 14vw;
+    width: 7vw;
+    height: 7vw;
+    border-radius: 60px;
+    border: 1.5px solid hsla(25, 100%, 45%, 1);
+}
+li a {
+    display: block;
+    padding: 1em 1em;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 1em;
+    margin: 5% auto;
+    width: 20em;
+    border-radius: 8px;
+    border: 2px solid hsla(76, 73%, 61%, 1);
+    color: #ffffff;
+    background-color: hsla(25, 100%, 45%, 1);
+}
+section {
+    width: 100%;
+    height: 40vw;
+    background-color: hsla(25, 100%, 45%, .94);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#sp1 {
+	color: hsla(25, 100%, 45%, 1); 
+}
+#sp2 {
+	color: hsla(76, 73%, 61%, 1);
+}
+
+header {
+	width: 50vw;
+    height: 50vw;
+    margin: 0 auto;
+    border-radius: 450px;
+    background-color: #1f2d4a;
+*/
